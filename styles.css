@@ -1,0 +1,15 @@
+.nav {
+    display: flex;
+    justify-content: flex-end;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    
+    
+  }
+  @media (max-width: 28.75em) {
+    .nav {
+      justify-content: center;
+    }
+  
